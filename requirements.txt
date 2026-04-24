@@ -1,0 +1,7 @@
+requests
+pandas
+scikit-learn
+spacy
+google-api-python-client
+instagrapi
+python-dotenv
