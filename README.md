@@ -252,8 +252,6 @@ python app.py
 
 ## 🎥 Demo Video
 
-👉 ADD YOUR VIDEO LINK HERE (Loom / YouTube / Drive)
-demo-
 https://drive.google.com/file/d/1rJcZqW04oe7-AjSM5jiq6VTBUNhetFKi/view?usp=sharing
 ---
 
